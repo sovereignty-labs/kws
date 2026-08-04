@@ -51,6 +51,7 @@ the architecture.
 | [docs/decisions.md](docs/decisions.md) | ADRs with rejected alternatives |
 | [docs/operating-model.md](docs/operating-model.md) | Verify-live, GitOps, security posture |
 | [docs/incidents.md](docs/incidents.md) | Real incident narratives (redacted) |
+| [docs/agent-failure-analysis.md](docs/agent-failure-analysis.md) | How AI agents fail at infrastructure work — hand-labelled taxonomy from one audited session |
 | [patterns/](patterns/) | Example-only manifests (TEST-NET / placeholders) |
 | [SANITIZATION.md](SANITIZATION.md) | What never ships in this repo |
 
